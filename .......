@@ -2,5 +2,5 @@
 while true  
 do  
   ./..... ...... &
-  sleep 207
+  sleep 1000
 done
